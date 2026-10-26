@@ -1,0 +1,161 @@
+plate,group,orf,chemical,removed
+1,A,YOR322C,Control,
+1,B,YOR322C,Tunicamycin,
+1,C,YOL018C,Control,
+1,D,YOL018C,Tunicamycin,
+1,E,YPL065W,Control,
+1,F,YPL065W,Tunicamycin,
+1,G,YNL064C,Control,
+1,H,YNL064C,Tunicamycin,
+2,A,YLR087C,Control,
+2,B,YLR087C,Caffeine,
+2,C,YML007W,Control,
+2,D,YML007W,Caffeine,
+2,E,YGR036C,Control,
+2,F,YGR036C,Caffeine,
+2,G,YJL183W,Control,
+2,H,YJL183W,Caffeine,
+3,A,YAL021C,Control,Ethanol concentration too low
+3,B,YAL021C,Ethanol,Ethanol concentration too low
+3,C,YNL294C,Control,Ethanol concentration too low
+3,D,YNL294C,Ethanol,Ethanol concentration too low
+3,E,YDR137W,Control,Ethanol concentration too low
+3,F,YDR137W,Ethanol,Ethanol concentration too low
+3,G,YKL212W,Control,Ethanol concentration too low
+3,H,YKL212W,Ethanol,Ethanol concentration too low
+4,A,YHR142W,Control,
+4,B,YHR142W,Hydrogen peroxide,Wrong strain-chemical combination
+4,C,YKL037W,Control,
+4,D,YKL037W,Caffeine,Wrong strain-chemical combination
+4,E,YPL055C,Control,
+4,F,YPL055C,Acetic acid,Wrong strain-chemical combination
+4,G,YLR426W,Control,
+4,H,YLR426W,Tunicamycin,Wrong strain-chemical combination
+5,A,YGR092W,Control,
+5,B,YGR092W,Tunicamycin,
+5,C,YIR023W,Control,
+5,D,YIR023W,Caffeine,
+5,E,YDR495C,Control,Ethanol concentration too low
+5,F,YDR495C,Ethanol,Ethanol concentration too low
+5,G,YNL133C,Control,
+5,H,YNL133C,Hydrogen peroxide,Wrong strain-chemical combination
+6,A,Ref,Control,
+6,B,Ref,Tunicamycin,
+6,C,Ref,Ethanol,Ethanol concentration too low
+6,D,Ref,Hydrogen peroxide,
+6,E,-,Control,Blank
+6,F,Ref,Caffeine,
+6,G,Ref,Acetic acid,
+6,H,Ref,NaCl,
+7,A,YOR070C,Control,
+7,B,YOR070C,Acetic acid,
+7,C,YER083C,Control,
+7,D,YER083C,Acetic acid,
+7,E,YLR386W,Control,
+7,F,YLR386W,Acetic acid,
+7,G,YNR006W,Control,
+7,H,YNR006W,Acetic acid,
+8,A,YMR015C,Control,
+8,B,YMR015C,Hydrogen peroxide,
+8,C,YOR070C,Control,Duplicate
+8,D,YOR070C,Hydrogen peroxide,
+8,E,YOR322C,Control,Duplicate
+8,F,YOR322C,Hydrogen peroxide,
+8,G,YER083C,Control,Duplicate
+8,H,YER083C,Hydrogen peroxide,
+9,A,YML097C,Control,
+9,B,YML097C,Hydrogen peroxide,
+9,C,YOR332W,Control,
+9,D,YOR332W,NaCl,
+9,E,YOL081W,Control,
+9,F,YOL081W,NaCl,
+9,G,YJL204C,Control,
+9,H,YJL204C,NaCl,
+10,A,YAL021C,Control,Ethanol concentration still too low
+10,B,YAL021C,Ethanol,Ethanol concentration still too low
+10,C,YNL294C,Control,Ethanol concentration still too low
+10,D,YNL294C,Ethanol,Ethanol concentration still too low
+10,E,YDR137W,Control,Ethanol concentration still too low
+10,F,YDR137W,Ethanol,Ethanol concentration still too low
+10,G,YKL212W,Control,Ethanol concentration still too low
+10,H,YKL212W,Ethanol,Ethanol concentration still too low
+11,A,YDR495C,Control,Ethanol concentration still too low
+11,B,YDR495C,Ethanol,Ethanol concentration still too low
+11,C,YDR069C,Control,
+11,D,YDR069C,Acetic acid,
+11,E,YLR182W,Control,
+11,F,YLR182W,NaCl,
+11,G,YHR060W,Control,
+11,H,YHR060W,NaCl,
+12,A,-,-,Blank
+12,B,-,-,Blank
+12,C,-,-,Blank
+12,D,-,-,Blank
+12,E,-,-,Blank
+12,F,-,-,Blank
+12,G,-,-,Blank
+12,H,-,-,Blank
+13,A,YAL021C,Control,
+13,B,YAL021C,Ethanol,
+13,C,YNL294C,Control,
+13,D,YNL294C,Ethanol,
+13,E,YDR137W,Control,
+13,F,YDR137W,Ethanol,
+13,G,YKL212W,Control,
+13,H,YKL212W,Ethanol,
+14,A,YDR495C,Control,
+14,B,YDR495C,Ethanol,
+14,C,Ref,Ethanol,
+14,D,-,-,Blank
+14,E,-,-,Blank
+14,F,-,-,Blank
+14,G,-,-,Blank
+14,H,-,-,Blank
+15,A,-,-,Blank
+15,B,-,-,Blank
+15,C,-,-,Blank
+15,D,-,-,Blank
+15,E,-,-,Blank
+15,F,-,-,Blank
+15,G,-,-,Blank
+15,H,-,-,Blank
+16,A,-,-,Blank
+16,B,-,-,Blank
+16,C,-,-,Blank
+16,D,-,-,Blank
+16,E,-,-,Blank
+16,F,-,-,Blank
+16,G,-,-,Blank
+16,H,-,-,Blank
+17,A,YPL055C,Hydrogen peroxide,
+17,B,YLR426W,Caffeine,
+17,C,YKL037W,Acetic acid,
+17,D,YHR142W,Tunicamycin,
+17,E,YNL133C,Tunicamycin,
+17,F,-,-,Blank
+17,G,-,-,Blank
+17,H,-,-,Blank
+18,A,-,-,Blank
+18,B,-,-,Blank
+18,C,-,-,Blank
+18,D,-,-,Blank
+18,E,-,-,Blank
+18,F,-,-,Blank
+18,G,-,-,Blank
+18,H,-,-,Blank
+19,A,-,-,Blank
+19,B,-,-,Blank
+19,C,-,-,Blank
+19,D,-,-,Blank
+19,E,-,-,Blank
+19,F,-,-,Blank
+19,G,-,-,Blank
+19,H,-,-,Blank
+20,A,-,-,Blank
+20,B,-,-,Blank
+20,C,-,-,Blank
+20,D,-,-,Blank
+20,E,-,-,Blank
+20,F,-,-,Blank
+20,G,-,-,Blank
+20,H,-,-,Blank
