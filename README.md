@@ -13,5 +13,10 @@ This repository contains the code and data from the paper *Knowledge Graph-Based
 
 To run predictions download trained models and cross validation fold information from [here](https://doi.org/10.5281/zenodo.23664660). Fold information is also needed to rerun training using the same folds. These files should be pu in the `prediction_models/` directory.
 
+Python (tested with Python 3.10.15) requirements can be found in `requirements.txt` and can be installed by running:
+```
+pip install -r requirements.txt
+```
+
 # How to cite
 ...
