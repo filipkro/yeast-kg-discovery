@@ -1,0 +1,584 @@
+@prefix ns1: <http://rimbo.project-genesis.io#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/yeast/kg/revision_YAL021C_CHEBI_16236> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YAL021C_CHEBI_16236_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YAL021C_CHEBI_16236_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YDR137W_CHEBI_16236> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YDR137W_CHEBI_16236_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YDR137W_CHEBI_16236_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YDR495C_CHEBI_16236> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YDR495C_CHEBI_16236_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YDR495C_CHEBI_16236_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YEL027W_CHEBI_26710> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YEL027W_CHEBI_26710_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YEL027W_CHEBI_26710_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YEL051W_CHEBI_15366> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YEL051W_CHEBI_15366_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YEL051W_CHEBI_15366_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YER083C_CHEBI_15366> a ns1:Revision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YER083C_CHEBI_15366_change> ;
+    ns1:hasPatch <http://example.org/yeast/kg/revision_YER083C_CHEBI_15366_patch> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YER083C_CHEBI_15366_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YER083C_CHEBI_16240> a ns1:Revision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YER083C_CHEBI_16240_change> ;
+    ns1:hasPatch <http://example.org/yeast/kg/revision_YER083C_CHEBI_16240_patch> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YER083C_CHEBI_16240_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YGR036C_CHEBI_27732> a ns1:Revision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YGR036C_CHEBI_27732_change> ;
+    ns1:hasPatch <http://example.org/yeast/kg/revision_YGR036C_CHEBI_27732_patch> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YGR036C_CHEBI_27732_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YGR092W_CHEBI_29699> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YGR092W_CHEBI_29699_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YGR092W_CHEBI_29699_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YHR142W_CHEBI_16240> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YHR142W_CHEBI_16240_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YHR142W_CHEBI_16240_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YIR023W_CHEBI_27732> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YIR023W_CHEBI_27732_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YIR023W_CHEBI_27732_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YJL183W_CHEBI_27732> a ns1:Revision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YJL183W_CHEBI_27732_change> ;
+    ns1:hasPatch <http://example.org/yeast/kg/revision_YJL183W_CHEBI_27732_patch> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YJL183W_CHEBI_27732_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YJL204C_CHEBI_26710> a ns1:Revision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YJL204C_CHEBI_26710_change> ;
+    ns1:hasPatch <http://example.org/yeast/kg/revision_YJL204C_CHEBI_26710_patch> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YJL204C_CHEBI_26710_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YKL037W_CHEBI_27732> a ns1:Revision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YKL037W_CHEBI_27732_change> ;
+    ns1:hasPatch <http://example.org/yeast/kg/revision_YKL037W_CHEBI_27732_patch> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YKL037W_CHEBI_27732_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YKL119C_CHEBI_26710> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YKL119C_CHEBI_26710_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YKL119C_CHEBI_26710_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YKL212W_CHEBI_16236> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YKL212W_CHEBI_16236_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YKL212W_CHEBI_16236_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YLR087C_CHEBI_27732> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YLR087C_CHEBI_27732_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YLR087C_CHEBI_27732_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YLR386W_CHEBI_15366> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YLR386W_CHEBI_15366_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YLR386W_CHEBI_15366_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YLR426W_CHEBI_29699> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YLR426W_CHEBI_29699_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YLR426W_CHEBI_29699_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YML007W_CHEBI_27732> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YML007W_CHEBI_27732_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YML007W_CHEBI_27732_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YML097C_CHEBI_16240> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YML097C_CHEBI_16240_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YML097C_CHEBI_16240_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YMR015C_CHEBI_16240> a ns1:Revision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YMR015C_CHEBI_16240_change> ;
+    ns1:hasPatch <http://example.org/yeast/kg/revision_YMR015C_CHEBI_16240_patch> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YMR015C_CHEBI_16240_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YNL064C_CHEBI_29699> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YNL064C_CHEBI_29699_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YNL064C_CHEBI_29699_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YNL133C_CHEBI_16240> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YNL133C_CHEBI_16240_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YNL133C_CHEBI_16240_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YNL294C_CHEBI_16236> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YNL294C_CHEBI_16236_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YNL294C_CHEBI_16236_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YNR006W_CHEBI_15366> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YNR006W_CHEBI_15366_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YNR006W_CHEBI_15366_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YOL018C_CHEBI_29699> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YOL018C_CHEBI_29699_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YOL018C_CHEBI_29699_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YOL081W_CHEBI_26710> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YOL081W_CHEBI_26710_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YOL081W_CHEBI_26710_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YOR070C_CHEBI_15366> a ns1:Revision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YOR070C_CHEBI_15366_change> ;
+    ns1:hasPatch <http://example.org/yeast/kg/revision_YOR070C_CHEBI_15366_patch> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YOR070C_CHEBI_15366_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YOR070C_CHEBI_16240> a ns1:Revision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YOR070C_CHEBI_16240_change> ;
+    ns1:hasPatch <http://example.org/yeast/kg/revision_YOR070C_CHEBI_16240_patch> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YOR070C_CHEBI_16240_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YOR322C_CHEBI_16240> a ns1:Revision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YOR322C_CHEBI_16240_change> ;
+    ns1:hasPatch <http://example.org/yeast/kg/revision_YOR322C_CHEBI_16240_patch> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YOR322C_CHEBI_16240_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YOR322C_CHEBI_26710> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YOR322C_CHEBI_26710_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YOR322C_CHEBI_26710_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YOR322C_CHEBI_29699> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YOR322C_CHEBI_29699_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YOR322C_CHEBI_29699_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YPL055C_CHEBI_15366> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YPL055C_CHEBI_15366_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YPL055C_CHEBI_15366_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YPL065W_CHEBI_29699> a ns1:UnsupportedRevision ;
+    ns1:hasChange <http://example.org/yeast/kg/revision_YPL065W_CHEBI_29699_change> ;
+    ns1:hasReason <http://example.org/yeast/kg/revision_YPL065W_CHEBI_29699_evidence> ;
+    ns1:revisionTo <http://example.org/yeast/kg/yeast_kg_v0> .
+
+<http://example.org/yeast/kg/revision_YAL021C_CHEBI_16236_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_16236> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YAL021C> .
+
+<http://example.org/yeast/kg/revision_YAL021C_CHEBI_16236_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 9.99985e-01 ;
+    ns1:pValue 9.99985e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YDR137W_CHEBI_16236_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_16236> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YDR137W> .
+
+<http://example.org/yeast/kg/revision_YDR137W_CHEBI_16236_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 8.716606e-01 ;
+    ns1:pValue 6.057719e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YDR495C_CHEBI_16236_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_16236> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YDR495C> .
+
+<http://example.org/yeast/kg/revision_YDR495C_CHEBI_16236_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 9.99985e-01 ;
+    ns1:pValue 9.50321e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YEL027W_CHEBI_26710_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_26710> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YEL027W> .
+
+<http://example.org/yeast/kg/revision_YEL027W_CHEBI_26710_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 9.99985e-01 ;
+    ns1:pValue 8.159065e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YEL051W_CHEBI_15366_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_15366> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YEL051W> .
+
+<http://example.org/yeast/kg/revision_YEL051W_CHEBI_15366_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 6.189218e-01 ;
+    ns1:pValue 3.359861e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YER083C_CHEBI_15366_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_15366> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YER083C> .
+
+<http://example.org/yeast/kg/revision_YER083C_CHEBI_15366_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 4.292835e-03 ;
+    ns1:pValue 7.359145e-04 ;
+    ns1:supportsHypothesis true .
+
+<http://example.org/yeast/kg/revision_YER083C_CHEBI_15366_patch> a ns1:KGTriplePatch ;
+    ns1:patchTo <http://example.org/yeast/kg/yeast_kg_v0_file> ;
+    ns1:stringRepresentation "<http://example.org/yeast/kg/YER083C> <http://example.org/yeast/kg/hasChemStressResistance_Decreased> <http://purl.obolibrary.org/obo/CHEBI_15366> ." .
+
+<http://example.org/yeast/kg/revision_YER083C_CHEBI_16240_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_16240> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YER083C> .
+
+<http://example.org/yeast/kg/revision_YER083C_CHEBI_16240_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 2.181418e-05 ;
+    ns1:pValue 1.246525e-06 ;
+    ns1:supportsHypothesis true .
+
+<http://example.org/yeast/kg/revision_YER083C_CHEBI_16240_patch> a ns1:KGTriplePatch ;
+    ns1:patchTo <http://example.org/yeast/kg/yeast_kg_v0_file> ;
+    ns1:stringRepresentation "<http://example.org/yeast/kg/YER083C> <http://example.org/yeast/kg/hasChemStressResistance_Decreased> <http://purl.obolibrary.org/obo/CHEBI_16240> ." .
+
+<http://example.org/yeast/kg/revision_YGR036C_CHEBI_27732_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_27732> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YGR036C> .
+
+<http://example.org/yeast/kg/revision_YGR036C_CHEBI_27732_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 1.689057e-04 ;
+    ns1:pValue 1.537394e-05 ;
+    ns1:supportsHypothesis true .
+
+<http://example.org/yeast/kg/revision_YGR036C_CHEBI_27732_patch> a ns1:KGTriplePatch ;
+    ns1:patchTo <http://example.org/yeast/kg/yeast_kg_v0_file> ;
+    ns1:stringRepresentation "<http://example.org/yeast/kg/YGR036C> <http://example.org/yeast/kg/hasChemStressResistance_Decreased> <http://purl.obolibrary.org/obo/CHEBI_27732> ." .
+
+<http://example.org/yeast/kg/revision_YGR092W_CHEBI_29699_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_29699> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YGR092W> .
+
+<http://example.org/yeast/kg/revision_YGR092W_CHEBI_29699_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 6.99478e-01 ;
+    ns1:pValue 4.299438e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YHR142W_CHEBI_16240_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_16240> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YHR142W> .
+
+<http://example.org/yeast/kg/revision_YHR142W_CHEBI_16240_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 7.05289e-01 ;
+    ns1:pValue 4.634757e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YIR023W_CHEBI_27732_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_27732> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YIR023W> .
+
+<http://example.org/yeast/kg/revision_YIR023W_CHEBI_27732_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 9.99985e-01 ;
+    ns1:pValue 9.4635e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YJL183W_CHEBI_27732_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_27732> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YJL183W> .
+
+<http://example.org/yeast/kg/revision_YJL183W_CHEBI_27732_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 1.689057e-04 ;
+    ns1:pValue 1.930351e-05 ;
+    ns1:supportsHypothesis true .
+
+<http://example.org/yeast/kg/revision_YJL183W_CHEBI_27732_patch> a ns1:KGTriplePatch ;
+    ns1:patchTo <http://example.org/yeast/kg/yeast_kg_v0_file> ;
+    ns1:stringRepresentation "<http://example.org/yeast/kg/YJL183W> <http://example.org/yeast/kg/hasChemStressResistance_Decreased> <http://purl.obolibrary.org/obo/CHEBI_27732> ." .
+
+<http://example.org/yeast/kg/revision_YJL204C_CHEBI_26710_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_26710> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YJL204C> .
+
+<http://example.org/yeast/kg/revision_YJL204C_CHEBI_26710_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 7.031624e-03 ;
+    ns1:pValue 1.406325e-03 ;
+    ns1:supportsHypothesis true .
+
+<http://example.org/yeast/kg/revision_YJL204C_CHEBI_26710_patch> a ns1:KGTriplePatch ;
+    ns1:patchTo <http://example.org/yeast/kg/yeast_kg_v0_file> ;
+    ns1:stringRepresentation "<http://example.org/yeast/kg/YJL204C> <http://example.org/yeast/kg/hasChemStressResistance_Decreased> <http://purl.obolibrary.org/obo/CHEBI_26710> ." .
+
+<http://example.org/yeast/kg/revision_YKL037W_CHEBI_27732_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_27732> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YKL037W> .
+
+<http://example.org/yeast/kg/revision_YKL037W_CHEBI_27732_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 1.943837e-06 ;
+    ns1:pValue 5.553819e-08 ;
+    ns1:supportsHypothesis true .
+
+<http://example.org/yeast/kg/revision_YKL037W_CHEBI_27732_patch> a ns1:KGTriplePatch ;
+    ns1:patchTo <http://example.org/yeast/kg/yeast_kg_v0_file> ;
+    ns1:stringRepresentation "<http://example.org/yeast/kg/YKL037W> <http://example.org/yeast/kg/hasChemStressResistance_Decreased> <http://purl.obolibrary.org/obo/CHEBI_27732> ." .
+
+<http://example.org/yeast/kg/revision_YKL119C_CHEBI_26710_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_26710> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YKL119C> .
+
+<http://example.org/yeast/kg/revision_YKL119C_CHEBI_26710_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 8.738099e-01 ;
+    ns1:pValue 6.491159e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YKL212W_CHEBI_16236_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_16236> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YKL212W> .
+
+<http://example.org/yeast/kg/revision_YKL212W_CHEBI_16236_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 9.99985e-01 ;
+    ns1:pValue 9.999652e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YLR087C_CHEBI_27732_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_27732> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YLR087C> .
+
+<http://example.org/yeast/kg/revision_YLR087C_CHEBI_27732_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 3.185959e-01 ;
+    ns1:pValue 1.170416e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YLR386W_CHEBI_15366_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_15366> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YLR386W> .
+
+<http://example.org/yeast/kg/revision_YLR386W_CHEBI_15366_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 4.618714e-01 ;
+    ns1:pValue 2.243375e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YLR426W_CHEBI_29699_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_29699> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YLR426W> .
+
+<http://example.org/yeast/kg/revision_YLR426W_CHEBI_29699_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 9.99985e-01 ;
+    ns1:pValue 8.859163e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YML007W_CHEBI_27732_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_27732> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YML007W> .
+
+<http://example.org/yeast/kg/revision_YML007W_CHEBI_27732_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 6.181592e-01 ;
+    ns1:pValue 3.179104e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YML097C_CHEBI_16240_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_16240> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YML097C> .
+
+<http://example.org/yeast/kg/revision_YML097C_CHEBI_16240_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 3.185959e-01 ;
+    ns1:pValue 1.032735e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YMR015C_CHEBI_16240_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_16240> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YMR015C> .
+
+<http://example.org/yeast/kg/revision_YMR015C_CHEBI_16240_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 1.550977e-02 ;
+    ns1:pValue 3.988227e-03 ;
+    ns1:supportsHypothesis true .
+
+<http://example.org/yeast/kg/revision_YMR015C_CHEBI_16240_patch> a ns1:KGTriplePatch ;
+    ns1:patchTo <http://example.org/yeast/kg/yeast_kg_v0_file> ;
+    ns1:stringRepresentation "<http://example.org/yeast/kg/YMR015C> <http://example.org/yeast/kg/hasChemStressResistance_Decreased> <http://purl.obolibrary.org/obo/CHEBI_16240> ." .
+
+<http://example.org/yeast/kg/revision_YNL064C_CHEBI_29699_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_29699> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YNL064C> .
+
+<http://example.org/yeast/kg/revision_YNL064C_CHEBI_29699_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 9.99985e-01 ;
+    ns1:pValue 9.828926e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YNL133C_CHEBI_16240_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_16240> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YNL133C> .
+
+<http://example.org/yeast/kg/revision_YNL133C_CHEBI_16240_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 4.214307e-01 ;
+    ns1:pValue 1.685723e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YNL294C_CHEBI_16236_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_16236> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YNL294C> .
+
+<http://example.org/yeast/kg/revision_YNL294C_CHEBI_16236_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 9.99985e-01 ;
+    ns1:pValue 9.995626e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YNR006W_CHEBI_15366_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_15366> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YNR006W> .
+
+<http://example.org/yeast/kg/revision_YNR006W_CHEBI_15366_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 6.291427e-01 ;
+    ns1:pValue 3.595101e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YOL018C_CHEBI_29699_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_29699> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YOL018C> .
+
+<http://example.org/yeast/kg/revision_YOL018C_CHEBI_29699_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 6.99478e-01 ;
+    ns1:pValue 4.396719e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YOL081W_CHEBI_26710_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_26710> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YOL081W> .
+
+<http://example.org/yeast/kg/revision_YOL081W_CHEBI_26710_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 4.481239e-01 ;
+    ns1:pValue 2.037138e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YOR070C_CHEBI_15366_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_15366> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YOR070C> .
+
+<http://example.org/yeast/kg/revision_YOR070C_CHEBI_15366_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 4.204611e-02 ;
+    ns1:pValue 1.201317e-02 ;
+    ns1:supportsHypothesis true .
+
+<http://example.org/yeast/kg/revision_YOR070C_CHEBI_15366_patch> a ns1:KGTriplePatch ;
+    ns1:patchTo <http://example.org/yeast/kg/yeast_kg_v0_file> ;
+    ns1:stringRepresentation "<http://example.org/yeast/kg/YOR070C> <http://example.org/yeast/kg/hasChemStressResistance_Decreased> <http://purl.obolibrary.org/obo/CHEBI_15366> ." .
+
+<http://example.org/yeast/kg/revision_YOR070C_CHEBI_16240_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_16240> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YOR070C> .
+
+<http://example.org/yeast/kg/revision_YOR070C_CHEBI_16240_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 2.616473e-03 ;
+    ns1:pValue 3.737818e-04 ;
+    ns1:supportsHypothesis true .
+
+<http://example.org/yeast/kg/revision_YOR070C_CHEBI_16240_patch> a ns1:KGTriplePatch ;
+    ns1:patchTo <http://example.org/yeast/kg/yeast_kg_v0_file> ;
+    ns1:stringRepresentation "<http://example.org/yeast/kg/YOR070C> <http://example.org/yeast/kg/hasChemStressResistance_Decreased> <http://purl.obolibrary.org/obo/CHEBI_16240> ." .
+
+<http://example.org/yeast/kg/revision_YOR322C_CHEBI_16240_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_16240> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YOR322C> .
+
+<http://example.org/yeast/kg/revision_YOR322C_CHEBI_16240_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 1.471533e-02 ;
+    ns1:pValue 3.363504e-03 ;
+    ns1:supportsHypothesis true .
+
+<http://example.org/yeast/kg/revision_YOR322C_CHEBI_16240_patch> a ns1:KGTriplePatch ;
+    ns1:patchTo <http://example.org/yeast/kg/yeast_kg_v0_file> ;
+    ns1:stringRepresentation "<http://example.org/yeast/kg/YOR322C> <http://example.org/yeast/kg/hasChemStressResistance_Decreased> <http://purl.obolibrary.org/obo/CHEBI_16240> ." .
+
+<http://example.org/yeast/kg/revision_YOR322C_CHEBI_26710_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_26710> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YOR322C> .
+
+<http://example.org/yeast/kg/revision_YOR322C_CHEBI_26710_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 4.481239e-01 ;
+    ns1:pValue 2.048566e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YOR322C_CHEBI_29699_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_29699> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YOR322C> .
+
+<http://example.org/yeast/kg/revision_YOR322C_CHEBI_29699_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 8.716606e-01 ;
+    ns1:pValue 6.226147e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YPL055C_CHEBI_15366_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_15366> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YPL055C> .
+
+<http://example.org/yeast/kg/revision_YPL055C_CHEBI_15366_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 3.185959e-01 ;
+    ns1:pValue 1.183356e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/revision_YPL065W_CHEBI_29699_change> a ns1:TripleInsertion ;
+    ns1:hasObject <http://purl.obolibrary.org/obo/CHEBI_29699> ;
+    ns1:hasPredicate <http://example.org/yeast/kg/hasChemStressResistance_Decreased> ;
+    ns1:hasSubject <http://example.org/yeast/kg/YPL065W> .
+
+<http://example.org/yeast/kg/revision_YPL065W_CHEBI_29699_evidence> a ns1:ExperimentalEvidence ;
+    ns1:fdr 9.99985e-01 ;
+    ns1:pValue 7.789226e-01 ;
+    ns1:supportsHypothesis false .
+
+<http://example.org/yeast/kg/yeast_kg_v0_file> a ns1:Turtle ;
+    ns1:filePath "<path/to/yeast_kg.ttl>" .
+
+<http://example.org/yeast/kg/yeast_kg_v0> a ns1:KnowledgeGraph ;
+    ns1:isImplementedAs <http://example.org/yeast/kg/yeast_kg_v0_file> .
+
