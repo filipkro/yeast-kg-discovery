@@ -227,7 +227,7 @@ class PhenomicsProcessing:
                 for j in tmp["Well"].unique():
                     tmp2 = tmp[tmp["Well"] == j]
                     # auc = np.trapezoid(tmp2["OD"], tmp2["deltaT"])
-                    auc = np.trapezoid(tmp2["OD"], tmp2["deltaT"])
+                    auc = np.trapz(tmp2["OD"], tmp2["deltaT"])
                     
                     lbl = self.layout[(self.layout["plate"] == plate) & (self.layout["group"] == group)]
                     auc_results.append([f"Plate{plate}_{j}", plate, j, lbl["orf"].item(), lbl["chemical"].item(), repl, auc])
