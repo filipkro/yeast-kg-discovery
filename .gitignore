@@ -20,7 +20,8 @@ Exported Items.bib
 *.out
 *.synctex.gz
 
-*.pkl
+prediction_models/cv_model_20260720-174936.pkl
+prediction_models/saved_folds.json
 
 # C extensions
 *.so
