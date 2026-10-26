@@ -1,0 +1,97 @@
+{
+    "YKL212W": [
+        "Ethanol"
+    ],
+    "YDR495C": [
+        "Ethanol"
+    ],
+    "YAL021C": [
+        "Ethanol"
+    ],
+    "YKL139W": [
+        "Ethanol"
+    ],
+    "YDR137W": [
+        "Ethanol"
+    ],
+    "YML097C": [
+        "Hydrogen peroxide"
+    ],
+    "YER083C": [
+        "Hydrogen peroxide",
+        "Acetic acid"
+    ],
+    "YOR070C": [
+        "Hydrogen peroxide",
+        "Acetic acid"
+    ],
+    "YOR322C": [
+        "Hydrogen peroxide"
+    ],
+    "YMR015C": [
+        "Hydrogen peroxide"
+    ],
+    "YPR036W": [
+        "Acetic acid",
+        "Table salt"
+    ],
+    "YEL051W": [
+        "Acetic acid"
+    ],
+    "YOL148C": [
+        "Acetic acid"
+    ],
+    "YOR331C": [
+        "Table salt"
+    ],
+    "YJL204C": [
+        "Table salt"
+    ],
+    "YOL081W": [
+        "Table salt"
+    ],
+    "YEL027W": [
+        "Table salt"
+    ],
+    "YNL064C": [
+        "Tunicamycin"
+    ],
+    "YPL065W": [
+        "Tunicamycin"
+    ],
+    "YDL185W": [
+        "Tunicamycin"
+    ],
+    "YOL018C": [
+        "Tunicamycin"
+    ],
+    "YGR092W": [
+        "Tunicamycin"
+    ],
+    "YPL055C": [
+        "Hydrogen peroxide",
+        "Acetic acid",
+        "Table salt"
+    ],
+    "YLR426W": [
+        "Caffeine"
+    ],
+    "YGL168W": [
+        "Table salt"
+    ],
+    "YHR026W": [
+        "Caffeine"
+    ],
+    "YML007W": [
+        "Caffeine"
+    ],
+    "YJL183W": [
+        "Caffeine"
+    ],
+    "YJR104C": [
+        "Caffeine"
+    ],
+    "YGR036C": [
+        "Caffeine"
+    ]
+}

@@ -1,0 +1,7 @@
+Chemical specific precision@5:
+Hydrogen peroxide: 0.22000000000000003
+Tunicamycin: 0.44000000000000006
+Caffeine: 0.36
+Table salt: 0.12000000000000002
+Ethanol: 0.42000000000000004
+Acetic acid: 0.24000000000000005

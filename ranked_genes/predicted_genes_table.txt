@@ -1,0 +1,49 @@
+\multirow{5}{*}{\makecell[l]{Hydrogen\\peroxide}} & YML097C / VPS9 & 0.931 & Involved in ergosterol biosynthesis \\
+& YER083C / GET2 & 0.929 & Involved in insertion of proteins in to ER membrane \\
+& YOR070C / GYP1 & 0.924 & Cis-golgi GAP for yeast Rabs \\
+& YOR322C / LBD19 & 0.923 & Involved in endocytosis \\
+& YMR015C / ERG5 & 0.915 & Involved in vacuolar transport \\
+\addlinespace
+
+\multirow{5}{*}{Tunicamycin} & YNL064C / YDJ1 & 0.926 & Regulates protein folding \\
+& YPL065W / VPS28 & 0.923 & Involved in endosomal protein sorting \\
+& YOL018C / TLG2 & 0.920 & Subunit of the SNARE complex \\
+& YGR092W / DBF2 & 0.919 & Kinase involved in transcription and stress response \\
+& YOR322C / LBD19 & 0.918 & Involved in endocytosis \\
+\addlinespace
+
+\multirow{5}{*}{Caffeine} & YML007W / YAP1 & 0.932 & Transcription factor involved in oxidative stress response \\
+& YJL183W / MNN11 & 0.911 & Subunit of Golgi mannosyltransferase complex \\
+& YGR036C / CAX4 & 0.885 & Involved in protein N-glycosylation in ER \\
+& YIR023W / DAL81 & 0.885 & Positive regulator of nitrogen degradation pathways \\
+& YLR087C / CSF1 & 0.875 & Required for fermentation at low temperatures \\
+\addlinespace
+
+\multirow{5}{*}{\makecell[l]{Acetic acid}} & YER083C / GET2 & 0.927 & Involved in insertion of proteins in to ER membrane \\
+& YOR070C / GYP1 & 0.920 & Cis-golgi GAP for yeast Rabs \\
+& YLR386W / VAC14 & 0.915 & Involved in vacuolar transport \\
+& YNR006W / VPS27 & 0.914 & Required for recycling Golgi proteins \\
+& YDR069C / DOA4 & 0.912 & Ubiquitin hydrolase \\
+\addlinespace
+
+\multirow{5}{*}{\makecell[l]{Ethanol}} & YKL212W / SAC1 & 0.943 & Regulates sphingolipid biosynthesis \\
+& YDR495C / VPS3 & 0.939 & Required for vacuolar protein sorting and processing \\
+& YAL021C / CCR4 & 0.938 & Involved in regulation of gene expression \\
+& YDR137W / RGP1 & 0.924 & Subunit of the Golgi membrane exchange factor \\
+& YNL294C / MSB3 & 0.924 & Regulates endocytosis \\
+\addlinespace
+
+\multirow{5}{*}{\makecell[l]{NaCl}} & YJL204C / RCY1 & 0.922 & Involved in endocytic recycling \\
+& YOL081W / IRA2 & 0.919 & Regulate cAMP levels under nutrient limitation \\
+& YOR332W / VMA4 & 0.915 & Required for vacuolar H+-ATPase function \\
+& YLR182W / SWI6 & 0.915 & Transcription cofactor involved in meiotic gene expression \\
+& YHR060W / VMA22 & 0.913 & Required for vacuolar H+-ATPase function \\
+\addlinespace
+
+\multicolumn{4}{l}{\textbf{Uncharacterised gene group}} \\
+
+Hydrogen peroxide & YPL055C / LGE1 & 0.887 & Null mutants have abnormally large cells \\
+Caffeine & YLR426W / TDA5 & 0.873 & Detected in highly purified mitochondria \\
+Acetic acid & YKL037W / AIM26 & 0.844 & Elevated mitochondrial genome loss for null mutants \\
+Tunicamycin & YHR142W / SPO12 & 0.813 & Positive regulator of mitotic shift \\
+Tunicamycin & YNL133C / FYV6 & 0.798 & Proposed to be involved in pre-mRNA splicing \\
