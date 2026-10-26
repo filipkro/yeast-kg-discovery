@@ -299,12 +299,6 @@ class Classifier(Model):
         # self.activation = th.nn.Sigmoid()
         self.activation = th.nn.Identity()
 
-        # if len(nn_channels) > 0:
-        #     self.last_lin = th.nn.Linear(nn_channels[-1], 1)
-        # else:
-        #     self.last_lin = th.nn.Linear(1, 1)
-
-    # def reset_parameters(self)
 
     def forward(self, data: HeteroData, edges_to_predict=None, return_embs=False):
         if return_embs:
