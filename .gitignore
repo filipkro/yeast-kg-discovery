@@ -22,6 +22,7 @@ Exported Items.bib
 
 prediction_models/cv_model_20260720-174936.pkl
 prediction_models/saved_folds.json
+od_analysis/OD_analysis.ipynb
 
 # C extensions
 *.so
